@@ -1,0 +1,11 @@
+<html>
+<head>
+<script language="javascript">
+if(NaN !== "NaN"){
+alert("你想了解什么？")
+}
+</script>
+</head>
+<body>
+</body>
+</html>
